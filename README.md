@@ -88,7 +88,8 @@
 | LeetCode Stats | CodeChef Stats |
 |---|---|
 |||
-| [![LeetCode Stats](https://leetcard.jacoblin.cool/HARINI_CHINRAJ?theme=dark&font=Syne%20Mono)](https://leetcode.com/HARINI_CHINRAJ/) | [![CodeChef Stats](https://github-readme-codechef.vercel.app/api/users/harinichinraj?theme=dark)](https://www.codechef.com/users/harinichinraj) |
+| [![LeetCode Stats](https://leetcard.jacoblin.cool/HARINI_CHINRAJ?theme=dark&font=Syne%20Mono)](https://leetcode.com/HARINI_CHINRAJ/) | 
+[![CodeChef Stats](https://github-readme-codechef.vercel.app/api/users/harinichinraj?theme=dark)](https://www.codechef.com/users/harinichinraj)
 
 <br>
 

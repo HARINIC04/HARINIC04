@@ -1,6 +1,6 @@
 <div align="center">
 
-  <p><img src="C:\Users\HP\Downloads\banner" alt="Harini - Aspiring Software Engineer | Data Science and AI Enthusiast"/></p>
+  <p><img src="https://github.com/HARINIC04/HARINIC04/blob/main/banner.jpg" alt="Harini - Aspiring Software Engineer | Data Science and AI Enthusiast"/></p>
 
   <p align="center">
     <a href="https://linkedin.com/in/harinichinraj" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -18,7 +18,7 @@
 <table>
   <tr>
     <td>
-      I'm a highly motivated aspiring software engineer with a passion for building solutions across the **full-stack, data science, and AI spectrum**. I enjoy translating complex ideas into polished, functional projects and actively use modern tools, including AI assistants, to enhance development efficiency.
+      I'm a highly motivated aspiring software engineer with a passion for building solutions across the <strong>full-stack, data science, and AI spectrum</strong>. I enjoy translating complex ideas into polished, functional projects and actively use modern tools, including AI assistants, to enhance development efficiency.
       <br><br>
       <b>-  My Passion:</b> I'm passionate about the intersection of artificial intelligence and user-centric design. I love the challenge of transforming raw data into intelligent, intuitive applications.
       <br>
@@ -34,7 +34,7 @@
 
 ---
 
-### 💻 Tech Stack & 🛠️ Tools
+###  Tech Stack &  Tools
 
 #### Languages & Databases
 <p align="left">
@@ -88,7 +88,8 @@
 | LeetCode Stats | CodeChef Stats |
 |---|---|
 |||
-| [![LeetCode Stats](https://leetcard.jacoblin.cool/HARINI_CHINRAJ?theme=dark&font=Syne%20Mono)](https://leetcode.com/HARINI_CHINRAJ/) | [![CodeChef Stats](https://github-readme-codechef.vercel.app/api/users/harinichinraj?theme=dark)](https://www.codechef.com/users/harinichinraj) |
+| [![LeetCode Stats](https://leetcard.jacoblin.cool/HARINI_CHINRAJ?theme=dark&font=Syne%20Mono)](https://leetcode.com/HARINI_CHINRAJ/) 
+| [![CodeChef Stats](https://github-readme-codechef.vercel.app/api/users/harinichinraj?theme=dark)](https://www.codechef.com/users/harinichinraj) |
 
 <br>
 
@@ -130,24 +131,4 @@
 </p>
 
 ---
-<div align="center">
 
-### A Little Code About Me
-```python
-class Harini_Chinraj:
-    
-    def __init__(self):
-        self.name = "Harini Chinraj"
-        self.location = "Coimbatore, India"
-        self.email = "harinichinraj04@gmail.com"
-        self.passions = ["AI", "Full-Stack Development", "Data Science"]
-        self.core_skills = ["Python", "Java", "React.js", "Machine Learning"]
-
-    def current_focus(self):
-        return "Building scalable, user-centric AI applications."
-
-me = Harini_Chinraj()
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>

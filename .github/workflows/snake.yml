@@ -19,5 +19,5 @@
                   target_branch: output
                   build_dir: dist
                 env:
-                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+                  GITHUB_TOKEN: ${{ secrets.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 }}
         ```

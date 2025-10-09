@@ -1,6 +1,6 @@
 <div align="center">
 
-  <p><img src="https://github.com/HARINIC04/HARINIC04/blob/main/intro.gif?raw=true" alt="Harini - Aspiring Software Engineer | Data Science and AI Enthusiast" width="100%" height="250"/></p>
+  <p><img src="https://github.com/HARINIC04/HARINIC04/blob/main/intro.gif?raw=true" alt="Harini - Aspiring Software Engineer | Data Science and AI Enthusiast" /></p>
 
   <p align="center">
     <a href="https://linkedin.com/in/harinichinraj" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>

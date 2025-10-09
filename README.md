@@ -1,7 +1,6 @@
 <div align="center">
 
-  <p><img src="https://github.com/HARINIC04/HARINIC04/blob/main/banner.jpg" alt="Harini - Aspiring Software Engineer | Data Science and AI Enthusiast"/></p>
-
+  <p><img src="https://github.com/HARINIC04/HARINIC04/blob/main/intro.gif?raw=true" alt="Harini - Aspiring Software Engineer | Data Science and AI Enthusiast"/></p>
   <p align="center">
     <a href="https://linkedin.com/in/harinichinraj" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="mailto:harinichinraj04@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
@@ -13,7 +12,7 @@
 
 ---
 
-###  About Me
+### About Me
 
 <table>
   <tr>
@@ -34,7 +33,7 @@
 
 ---
 
-###  Tech Stack &  Tools
+### Tech Stack & Tools
 
 #### Languages & Databases
 <p align="left">
@@ -77,7 +76,7 @@
 
 ---
 
-### GitHub Stats &  Coding Platforms
+### GitHub Stats & Coding Platforms
 
 <div align="center">
 
@@ -102,7 +101,7 @@
 ---
 
 
-###  Projects
+### Projects
 
 <p align="center">
   <a href="https://github.com/HARINIC04/Expiry_Tracker">
@@ -122,7 +121,7 @@
 
 ---
 
-###  Certifications
+### Certifications
 
 <p align="center">
   <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera">
@@ -131,4 +130,3 @@
 </p>
 
 ---
-

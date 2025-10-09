@@ -26,7 +26,7 @@
       <b>-  I'm Currently Learning:</b> I am diving deeper into MLOps practices to better understand the end-to-end lifecycle of machine learning models, from deployment to monitoring.
     </td>
     <td width="35%" align="center">
-      <img src="https://github.com/HARINIC04/HARINIC04/blob/main/about-me.gif?raw=true" alt="Coding GIF" width="200">
+      <img src="https://github.com/HARINIC04/HARINIC04/blob/main/about-me.gif?raw=true" alt="Coding GIF" width="500">
     </td>
   </tr>
 </table>

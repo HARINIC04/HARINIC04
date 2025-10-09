@@ -1,6 +1,6 @@
 <div align="center">
 
-  <p><img src="https://github.com/HARINIC04/HARINIC04/blob/main/intro.gif?raw=true" alt="Harini - Aspiring Software Engineer | Data Science and AI Enthusiast" height="250"/></p>
+  <p><img src="https://github.com/HARINIC04/HARINIC04/blob/main/intro.gif?raw=true" alt="Harini - Aspiring Software Engineer | Data Science and AI Enthusiast" height="250" width=100%/></p>
 
   <p align="center">
     <a href="https://linkedin.com/in/harinichinraj" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -12,7 +12,7 @@
 
 ---
 
-### 💫 About Me
+###  About Me
 
 <table>
   <tr>
@@ -33,7 +33,7 @@
 
 ---
 
-### 💻 Tech Stack & Tools
+###  Tech Stack & Tools
 
 #### Languages & Databases
 <p align="left">
@@ -97,7 +97,7 @@
 
 ---
 
-### 📊 GitHub Stats & Activity
+###  GitHub Stats & Activity
 
 <div align="center">
 
@@ -125,7 +125,7 @@
 
 ---
 
-### 📂 Pinned Projects
+###  Pinned Projects
 
 <p align="center">
   <a href="https://github.com/HARINIC04/Expiry_Tracker">
@@ -145,7 +145,7 @@
 
 ---
 
-### 📜 Certifications
+###  Certifications
 
 <p align="center">
   <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera">

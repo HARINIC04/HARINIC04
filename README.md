@@ -1,6 +1,6 @@
 <div align="center">
 
-  <p><img src="https://github.com/HARINIC04/HARINIC04/blob/main/giphy.gif?raw=true" alt="Harini - Aspiring Software Engineer | Data Science and AI Enthusiast" height="250" width="100%" /></p>
+  <p><img src=https://github.com/HARINIC"04/HARINIC04/blob/main/giphy.gif?raw=true" alt="Harini - Aspiring Software Engineer | Data Science and AI Enthusiast" height="250" width="100%" /></p>
 
   <p align="center">
     <a href="https://linkedin.com/in/harinichinraj" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -26,7 +26,7 @@
       <b>-  I'm Currently Learning:</b> I am diving deeper into MLOps practices to better understand the end-to-end lifecycle of machine learning models, from deployment to monitoring.
     </td>
     <td width="35%" align="center">
-      <img src="https://media.giphy.com/media/USV0ym3bVWQ3aCVclA/giphy.gif" alt="Coding GIF" width="100%">
+      <img src="https://github.com/HARINIC"04/HARINIC04/blob/main/giphy(1).gif?raw=true"" alt="Coding GIF" width="100%">
     </td>
   </tr>
 </table>

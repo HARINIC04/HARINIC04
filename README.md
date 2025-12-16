@@ -27,7 +27,7 @@
 <div align="center">
 <table>
   <tr>
-    <td width="55%">
+    <td width="60%">
       <h2>⚡ About Me</h2>
       <p>
         Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm a pre-final year <b>AI & DS Undergraduate</b> passionate about engineering robust software systems.
@@ -42,7 +42,7 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="https://cdn3d.iconscout.com/3d/premium/thumb/artificial-intelligence-brain-5360064-4489812.png" width="200" alt="3D AI Icon"/>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="3D Robot" width="180" />
     </td>
   </tr>
 </table>

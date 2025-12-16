@@ -148,7 +148,7 @@
 <h3 align="center">🐍 My Contributions</h3>
 
 <div align="center">
-  <img src="https://github.com/HARINIC04/HARINIC04/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/HARINIC04/HARINIC04/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <div align="center">

@@ -90,7 +90,7 @@
         <p><b>React.js • Node.js • Express.js • MongoDB • Google Cloud Vision API</b></p>
         <p>AI-powered inventory system that scans product labels via Google Cloud Vision to auto-extract expiry data, with JWT-based RBAC and real-time expiry alerts to cut product wastage.</p>
         <a href="https://github.com/HARINIC04/Expiry_Tracker">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=HARINIC04&repo=Expiry_Tracker&theme=radical&hide_border=true" />
+          <img src="https://img.shields.io/badge/View_Repo-171515?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </td>
     </tr>
@@ -100,7 +100,7 @@
         <p><b>Python • Scikit-Learn • Streamlit • Databricks • Snowflake • SHAP</b></p>
         <p>RandomForestClassifier pipeline hitting 92% accuracy / 89% F1 on loan default risk, served through a Streamlit app with SHAP-powered explainability for transparent credit decisions.</p>
         <a href="https://github.com/HARINIC04/loan-repayment-prediction">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=HARINIC04&repo=loan-repayment-prediction&theme=radical&hide_border=true" />
+          <img src="https://img.shields.io/badge/View_Repo-171515?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </td>
       <td width="50%" align="center">
@@ -108,7 +108,7 @@
         <p><b>Socket.io • React • Real-time</b></p>
         <p>Seamless real-time messaging platform built on WebSockets.</p>
         <a href="https://github.com/HARINIC04/online-chat-application">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=HARINIC04&repo=online-chat-application&theme=radical&hide_border=true" />
+          <img src="https://img.shields.io/badge/View_Repo-171515?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </td>
     </tr>
@@ -149,18 +149,6 @@
 </div>
 
 ---
-
-<h3 align="center">🐍 My Contributions</h3>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/HARINIC04/HARINIC04/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=HARINIC04&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HARINIC04&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
 
 <div align="center">
   <br>
